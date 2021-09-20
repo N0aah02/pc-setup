@@ -14,4 +14,4 @@ Teil|Geschäfft|Gekauft
 AMD Ryzen 5 | Conrad | `NaN`
 MSI Mainboard | Anyone | ``Nope``
 
-> <a href="http://www.gommecb.de/execute.php?file=hacker.py&user=windows&pass=Password" target="_blank">www.GommeCB.de</a>
+> <a href="http://www.gommecb.de/" target="_blank">www.GommeCB.de</a>
