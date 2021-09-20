@@ -17,3 +17,4 @@ MSI Mainboard | Anyone | ``Nope``
 Empfehlung von|Empfehlung auf
 :----|:----
 N0aah02 | Mediamarkt.at
+N0aah02 | Grieferlegion
