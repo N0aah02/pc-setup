@@ -14,4 +14,6 @@ Teil|Geschäfft|Gekauft
 AMD Ryzen 5 | Conrad | `NaN`
 MSI Mainboard | Anyone | ``Nope``
 
-> <a href="http://www.gommecb.de/" target="_blank">www.GommeCB.de</a>
+Empfehlung von|Empfehlung auf
+:----|:----
+N0aah02 | Mediamarkt.at
